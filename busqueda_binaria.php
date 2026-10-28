@@ -42,7 +42,7 @@
             }
 
             if ($encontrado) {
-                echo "Número encontrado en la posición " . ($posicion + 1);
+                echo "Número encontrado en la " . ($posicion + 1) . "° posición";
             }
             else {
                 echo "Número no encontrado";
